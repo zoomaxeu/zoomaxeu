@@ -10,7 +10,6 @@
 - 📫 How to reach me **text me on ig**
 
 - ⚡ Fun fact **There's no fun fact lol**
-<img align=right height=150 src=httpsmedia.tenor.com2vzT-8oPXl8AAAAitkthao219-bubududu.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
