@@ -1,3 +1,4 @@
+<h2 align="left">Welcome to my GitHub profile :D</h2>
 <h3 align="center">A high school student, who just learns how to code :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoomaxeu&label=Profile%20views&color=ff00bb&style=flat" alt="zoomaxeu" /> </p>
@@ -9,6 +10,7 @@
 - 📫 How to reach me **text me on ig**
 
 - ⚡ Fun fact **There's no fun fact lol**
+<img align=right height=150 src=httpsmedia.tenor.com2vzT-8oPXl8AAAAitkthao219-bubududu.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
