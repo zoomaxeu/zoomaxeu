@@ -1,7 +1,7 @@
 <h2 align="left">Welcome to my GitHub profile :D</h2>
 <h3 align="center">A high school student, who just learns how to code :D</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoomaxeu&label=Profile%20views&color=ff00bb&style=flat" alt="zoomaxeu" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zoomaxeu&label=Profile%20views&color=ff00bb&style=flat" alt="zoomaxeu" /> </p>
 
 - 🌱 I’m currently learning **Java, React**
 
